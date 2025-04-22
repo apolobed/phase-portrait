@@ -1,0 +1,17 @@
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\bin\Debug\third.exe.config
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\bin\Debug\third.exe
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\bin\Debug\third.pdb
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\bin\Debug\OpenTK.dll
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\bin\Debug\OpenTK.GLControl.dll
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\bin\Debug\OpenTK.pdb
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\bin\Debug\OpenTK.xml
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\bin\Debug\OpenTK.GLControl.xml
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\obj\Debug\third.csproj.AssemblyReference.cache
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\obj\Debug\third.Form1.resources
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\obj\Debug\third.Properties.Resources.resources
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\obj\Debug\third.csproj.GenerateResource.cache
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\obj\Debug\third.csproj.CoreCompileInputs.cache
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\obj\Debug\third.csproj.Up2Date
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\obj\Debug\third.exe
+C:\Users\МВИДЕО\Desktop\метода мат моделлирования\проги\third\third\obj\Debug\third.pdb
